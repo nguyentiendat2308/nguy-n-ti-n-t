@@ -6,7 +6,7 @@ tich = st1 * st2
 print("Kết quả cộng là:", tong)
 print("Kết quả trừ là:", hieu)
 print("Kết quả nhân là:", tich)
-if st1 != 0:
+if st2 != 0:
     thuong = st1 / st2
     print("Kết quả chia là:", thuong)
 else:
